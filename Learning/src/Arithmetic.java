@@ -9,13 +9,13 @@ public class Arithmetic {
 	}
 	public int sub(int a,int b) {
 		int c= a-b;
-		System.out.println("Result of substraction is "+c);
+		System.out.println("Result of substraction is.. = "+c);
 		return c;
 	
 	}
 	public int mul(int a,int b) {
 		int c=a*b;
-		System.out.println("Result of multiplication is "+c);
+		System.out.println("Result of multiplication is.. "+c);
 		return c;
 	}
 	public void division(int a, int b){

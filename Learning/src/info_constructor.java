@@ -13,7 +13,7 @@ public class info_constructor {
 
 	public info_constructor(int a, int b) {
 		this(10);
-		System.out.println("2 parametrized constructor called...");
+		System.out.println(" 2 parametrized constructor called...");
 	}
 
 	public info_constructor(int a, int b, int c) {

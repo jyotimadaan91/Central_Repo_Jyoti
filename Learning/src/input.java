@@ -16,7 +16,7 @@ public class input {
 	 }
 	 public void division(int a,int b) {
 		 int c=a/b;
-	System.out.println("Output of expression is = "+c);
+	System.out.println("Output of expression is.. = "+c);
 	 }
 
 	 public void input() {

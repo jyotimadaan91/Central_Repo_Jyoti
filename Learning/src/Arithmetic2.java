@@ -9,7 +9,7 @@ public class Arithmetic2 {
 	}
 	public int sub(int a,int b) {
 		int c= a-b;
-		System.out.println("Result of substraction is "+c);
+		System.out.println("Result of substraction is... "+c);
 		return c;
 	
 	}

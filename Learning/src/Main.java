@@ -23,7 +23,7 @@ public class Main
          {
         	 System.out.println("Main 8");
        if (line.length() > 80){
-          System.out.println("Line is more than 80 characters and can not be processed: " + line);
+          System.out.println("  Line is more than 80 characters and can not be processed: " + line);
      }
        System.out.println("Main 9");
          }

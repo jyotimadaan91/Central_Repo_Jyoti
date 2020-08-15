@@ -13,7 +13,7 @@ public class Parent {
 	
 	public Parent(int a, int b ) {
 		this(10);
-		System.out.println("Parent 2 parameterized constructor");
+		System.out.println("Parent 2- parameterized constructor");
 	}
 	public Parent(int a, int b, int c) {
 		System.out.println("Parent 3 parameterized constructor");

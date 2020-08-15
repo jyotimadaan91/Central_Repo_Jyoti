@@ -8,7 +8,7 @@ public class constructor_1 {
 
 	public constructor_1(int a) {
 		this();
-		System.out.println("1 paramertized constructor called...");
+		System.out.println("1- paramertized constructor called...");
 	}
 
 	public constructor_1(int a, int b) {

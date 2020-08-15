@@ -15,8 +15,8 @@ public class Student {
 		Deepak.age=20;
 		Deepak.method1();
 		Deepak.method2();
-		System.out.println("Rollno. of Deepak is: "+Deepak.rollno);
-		System.out.println("Age of Deepak is: "+Deepak.age+"yrs");
+		System.out.println("Rollno. of Deepak is:- "+Deepak.rollno);
+		System.out.println("Age of Deepak is:- "+Deepak.age+"yrs");
 		
 	}
 	

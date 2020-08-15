@@ -8,7 +8,7 @@ public class Child extends Parent {
 	
 	public  Child(int a) {
 		this(10,20,30);
-		System.out.println("Child 1 Paramterized Constructor");
+		System.out.println("Child 1-Paramterized Constructor");
 	}
 	public  Child(int a, int b) {
 		this(10);
